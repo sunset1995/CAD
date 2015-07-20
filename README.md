@@ -35,11 +35,17 @@ git pull -> edit -> git add . -> git commim -m "..." -> git pull -> git push
 
 # How to compile
   `g++ -O2 -w -std=c++11 -c ClassDefine.cpp`
+  
   `g++ -O2 -w -std=c++11 -c WindowSet.cpp`
+  
   `g++ -O2 -w -std=c++11 -c ScanLine.cpp`
+  
   `g++ -O2 -w -std=c++11 -c DisjointSet.cpp`
+  
   `g++ -O2 -w -std=c++11 -c IOInterface.cpp`
+  
   `g++ -O2 -w -std=c++11 -c main.cpp`
+  
   `g++ -O2 -w -std=c++11 -o test(.exe) ClassDefine.o WindowSet.o ScanLine.o DisjointSet.o IOInterface.o main.o`
 
 
