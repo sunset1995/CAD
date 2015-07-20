@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1436931901 source:d:\cad_contest_2015_cb\classdefine.cpp
+	"ClassDefine.h"
+
+1436934936 d:\cad_contest_2015_cb\classdefine.h
+	<map>
+	<vector>
+	<utility>
+	<set>
+
+1436931601 source:d:\cad_contest_2015_cb\disjointset.cpp
+	"DisjointSet.h"
+	"ClassDefine.h"
+
+1436932912 d:\cad_contest_2015_cb\disjointset.h
+
+1436935752 source:d:\cad_contest_2015_cb\main.cpp
+	<cstdio>
+	<iostream>
+	<map>
+	<vector>
+	<utility>
+	<algorithm>
+	<cstring>
+	<set>
+	"ClassDefine.h"
+	"DisjointSet.h"
+	"ScanLine.h"
+	"WindowSet.h"
+	"IOInterface.h"
+
+1436934149 d:\cad_contest_2015_cb\scanline.h
+	<vector>
+	<map>
+
+1436932468 d:\cad_contest_2015_cb\windowset.h
+
+1436935106 source:d:\cad_contest_2015_cb\scanline.cpp
+	<vector>
+	<map>
+	<algorithm>
+	"ClassDefine.h"
+	"DisjointSet.h"
+	"ScanLine.h"
+
+1436935011 source:d:\cad_contest_2015_cb\windowset.cpp
+	<algorithm>
+	"ClassDefine.h"
+	"ScanLine.h"
+	"WindowSet.h"
+
+1436935925 source:d:\cad_contest_2015_cb\iointerface.cpp
+	<cstdio>
+	<vector>
+	"ClassDefine.h"
+
+1436935690 d:\cad_contest_2015_cb\iointerface.h
+
