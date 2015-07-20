@@ -21,9 +21,7 @@ we may use
 
 5. git commit -m "briefly tell others what you have done"
 
-*all the task flow like this
-    *clone
-    *git pull -> edit -> git add . -> git commim -m "..." -> git pull -> git push
+* git pull -> edit -> git add . -> git commim -m "..." -> git pull -> git push
 
 # How to compile
 ```
